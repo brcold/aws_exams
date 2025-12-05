@@ -29,10 +29,10 @@ D. Security
 
 Q903. A company needs to track the relationships among AWS resources. The company also needs to review resource dependencies before the company makes any changes to the resources. Which AWS service can the company use to meet these requirements?
 
-A. AWS Trusted Advisor
-B. AWS Config
-C. AWS Resource Access Manager (AWS RAM)
-D. AWS Systems Manager
+- A. AWS Trusted Advisor
+- B. AWS Config
+- C. AWS Resource Access Manager (AWS RAM)
+- D. AWS Systems Manager
 
 ---
 
